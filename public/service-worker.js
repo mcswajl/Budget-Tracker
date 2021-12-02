@@ -1,17 +1,17 @@
-const CACHE_NAME = 'my-site-cache-v2';
-const DATA_CACHE_NAME = 'data-cache-v2';
+const CACHE_NAME = 'Cache_Name';
+const DATA_CACHE_NAME = 'Date_Cache_Name';
 
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
-  '/favicon.ico',
+  '/public/js/index.js',
+  '/public/js/idb.js',
   '/manifest.json',
-  '/assets/css/style.css',
-  '/app.js',
-  '/public/assets/images/icons/icon_72x72.png',
-  '/public/assets/images/icons/icon_96x96.png',
-  '/public/assets/images/icons/icon_128x128.png',
-  '/public/assets/images/icons/icon_144x144.png',
+  '/public/css/style.css',
+  '/public/icons/icon_72x72.png',
+  '/public/icons/icon_96x96.png',
+  '/public/icons/icon_128x128.png',
+  '/public/icons/icon_144x144.png',
 
 ];
 
