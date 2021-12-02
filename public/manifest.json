@@ -15,11 +15,11 @@
         "sizes": "128x128",
         "type": "image/png"
       },
-      {
-        "src": "assets/icons/icon_144x144.png",
-        "sizes": "144x144",
-        "type": "image/png"
-      },
+      // {
+      //   "src": "assets/icons/icon_144x144.png",
+      //   "sizes": "144x144",
+      //   "type": "image/png"
+      // },
       {
         "src": "assets/icons/icon_152x152.png",
         "sizes": "152x152",
