@@ -1,18 +1,17 @@
 const CACHE_NAME = 'Cache_Name';
-const DATA_CACHE_NAME = 'Date_Cache_Name';
+const DATA_CACHE_NAME = 'Data_Cache_Name';
 
 const FILES_TO_CACHE = [
   '/',
-  '/index.html',
-  '/public/js/index.js',
-  '/public/js/idb.js',
-  '/manifest.json',
-  '/public/css/style.css',
-  '/public/icons/icon_72x72.png',
-  '/public/icons/icon_96x96.png',
-  '/public/icons/icon_128x128.png',
-  '/public/icons/icon_144x144.png',
-
+  './index.html',
+  './js/index.js',
+  './js/idb.js',
+  './manifest.json',
+  './css/styles.css',
+  './icons/icon_72x72.png',
+  './icons/icon_96x96.png',
+  './icons/icon_128x128.png',
+  './icons/icon_144x144.png'
 ];
 
 // Install the service worker
